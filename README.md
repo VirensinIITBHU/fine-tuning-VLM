@@ -682,7 +682,7 @@ Final adversarial evaluation
 
 Contains the formal technical report and its LaTeX source.
 
-#### `results/evaluation_metrics.json`
+**[Task B Technical Report](./Reports/ReportTask_B_VLM.pdf)**
 
 Stores evaluation outputs and metric information generated during experiments.
 
@@ -803,7 +803,7 @@ Trainable     0%                    0.4372%
 
 The complete methodology, mathematical formulation, experimental results, ablations, and failure analysis are documented in the technical report:
 
-**[Task B Technical Report](./reports/Task_B_Technical_Report.pdf)**
+**[Task B Technical Report](./Reports/ReportTask_B_VLM.pdf)**
 
 ---
 
